@@ -52,7 +52,7 @@ Berdasarkan pernyataan masalah diatas maka dapat kita tentukan tujuan sebagai be
 Dari pemaparan sebelumnya, maka terdapat beberapa solusi yang bisa kita gunakan untuk mencapai tujuan dari proyek ini, yaitu:
 
 **1.	 Tahap analisis menggunakan EDA.**
-Exploratory Data Analysis (EDA) adalah bagian dari proses data science. EDA menjadi sangat penting sebelum melakukan feature engineering dan modeling karena dalam tahap ini kita harus memahami datanya terlebih dahulu.Exploratory Data Analysis memungkinkan analyst memahami isi data yang digunakan, mulai dari distribusi, frekuensi, korelasi dan lainnya [[4]](https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fdata-folks-indonesia%2Fmemahami-data-dengan-exploratory-data-analysis-a53b230cce84).
+Exploratory Data Analysis (EDA) adalah bagian dari proses data science. EDA menjadi sangat penting sebelum melakukan feature engineering dan modeling karena dalam tahap ini kita harus memahami datanya terlebih dahulu.Exploratory Data Analysis memungkinkan analyst memahami isi data yang digunakan, mulai dari distribusi, frekuensi, korelasi dan lainnya. [[4]](https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fdata-folks-indonesia%2Fmemahami-data-dengan-exploratory-data-analysis-a53b230cce84).
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20240509161456/Steps-for-Performing-Exploratory-Data-Analysis.png)
 sumber :  media.geeksforgeeks.org
 
@@ -70,9 +70,10 @@ Algoritma k-Nearest Neighbor adalah algoritma supervised learning dimana hasil d
 sumber : cloudfront.net
 
 Secara umum, cara kerja algoritma KNN adalah sebagai berikut:
-				- 	Tentukan jumlah tetangga (K) yang akan digunakan untuk pertimbangan penentuan kelas.
-				-	Hitung jarak dari data baru ke masing-masing data point di dataset.
-				-	Ambil sejumlah K data dengan jarak terdekat, kemudian tentukan kelas dari data baru tersebut. [\[6\]](https://ilmudatapy.com/algoritma-k-nearest-neighbor-knn-untuk-klasifikasi/)
+
+- Tentukan jumlah tetangga (K) yang akan digunakan untuk pertimbangan penentuan kelas.
+- Hitung jarak dari data baru ke masing-masing data point di dataset.
+- Ambil sejumlah K data dengan jarak terdekat, kemudian tentukan kelas dari data baru tersebut.[\[6\]](https://ilmudatapy.com/algoritma-k-nearest-neighbor-knn-untuk-klasifikasi/)
 				
 Jarak yang Sering Digunakan:
 
